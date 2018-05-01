@@ -1,0 +1,24 @@
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\_BusinessLayer.dll.config
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\_DataLayer.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\_DataLayer.pdb
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\obj\Debug\_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\_BusinessLayer\obj\Debug\_BusinessLayer.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\_BusinessLayer.dll.config
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\_DataLayer.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\_DataLayer.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\obj\Debug\_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\_BusinessLayer\obj\Debug\_BusinessLayer.pdb

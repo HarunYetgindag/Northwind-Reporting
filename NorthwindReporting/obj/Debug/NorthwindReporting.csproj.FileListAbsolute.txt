@@ -1,0 +1,98 @@
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.exe.config
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.exe
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.pdb
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.csprojResolveAssemblyReference.cache
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.Properties.Resources.resources
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.csproj.GenerateResource.Cache
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.exe
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.pdb
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\Reports\Report1.rdlc
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\_BusinessLayer.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\_DataLayer.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\_BusinessLayer.pdb
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\_DataLayer.pdb
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.xml
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.FrmReport.resources
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\obj\Debug\RdlCompile.cache
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\obj\Debug\RdlCompile.compiled
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Şahin\Desktop\2017 - 2018 GÜZ\Veritabanı ve Yönetimi\1. Öğretimler\NorthwindReporting\NorthwindReporting\bin\Debug\Reports\Report2.rdlc
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.exe.config
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.exe
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.pdb
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\Reports\Report1.rdlc
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\Reports\Report2.rdlc
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.exe
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.pdb
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\_BusinessLayer.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\_DataLayer.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\_BusinessLayer.pdb
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\_DataLayer.pdb
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.xml
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.FrmReport.resources
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.Properties.Resources.resources
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.csproj.GenerateResource.Cache
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\obj\Debug\RdlCompile.cache
+C:\Users\Harun\Desktop\NorthwindReporting\NorthwindReporting\obj\Debug\RdlCompile.compiled
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.exe.config
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.exe
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\Reports\Report1.rdlc
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.exe
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\NorthwindReporting.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\_BusinessLayer.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\_DataLayer.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\_BusinessLayer.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\_DataLayer.pdb
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.xml
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.csprojResolveAssemblyReference.cache
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.FrmReport.resources
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.Properties.Resources.resources
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\obj\Debug\NorthwindReporting.csproj.GenerateResource.Cache
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\obj\Debug\RdlCompile.cache
+C:\Users\Harun\Desktop\Veritabanı ve Yönetimi\NorthwindReporting\NorthwindReporting\obj\Debug\RdlCompile.compiled
